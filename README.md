@@ -2,7 +2,7 @@
 
 Application **Streamlit** de classification supervisée qui prédit le genre d'un film (Action, Comédie, Drame, Horreur) à partir de ses seules caractéristiques numériques, sans lire le synopsis. Le genre prédit sert ensuite à proposer une stratégie marketing adaptée : audience, canaux, période de sortie, budget.
 
-Projet réalisé à l'ECE Paris (majeure Data & IA), 2025/2026. Modèle principal : **Naive Bayes**, comparé à un **Random Forest**.
+Projet de groupe réalisé à l'ECE Paris (majeure Data & IA), 2025/2026. Modèle principal : **Naive Bayes**, comparé à un **Random Forest**.
 
 **Stack :** Python · pandas · NumPy · scikit-learn (GaussianNB, RandomForest) · Plotly · Streamlit
 
@@ -65,6 +65,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Auteur
+## Auteurs
 
-**Édouard Menut**. Autres projets : [Machine Learning](https://github.com/Edouardmnt/ECE-Machine-Learning-2025-2026) · [Data Science](https://github.com/Edouardmnt/ECE-Data-Science-2025-2026) · [Data Mining](https://github.com/Edouardmnt/ECE-Data-Mining-2025-2026) · [Big Data](https://github.com/Edouardmnt/ECE-Big-Data-2025-2026)
+Projet de groupe : **Clara Chalayer**, **Chloé Lestic** et **Édouard Menut**.
+
+Autres projets d'Édouard : [Machine Learning](https://github.com/Edouardmnt/ECE-Machine-Learning-2025-2026) · [Data Science](https://github.com/Edouardmnt/ECE-Data-Science-2025-2026) · [Data Mining](https://github.com/Edouardmnt/ECE-Data-Mining-2025-2026) · [Big Data](https://github.com/Edouardmnt/ECE-Big-Data-2025-2026)
