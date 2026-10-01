@@ -4,6 +4,8 @@ Application **Streamlit** de classification supervisée qui prédit le genre d'u
 
 Projet de groupe réalisé à l'ECE Paris (majeure Data & IA), 2025/2026. Modèle principal : **Naive Bayes**, comparé à un **Random Forest**.
 
+**▶ Essayer l'application en ligne :** [huggingface.co/spaces/edouardmnt04/CineTarget](https://huggingface.co/spaces/edouardmnt04/CineTarget). Elle s'exécute entièrement dans le navigateur, avec environ 1 minute de chargement au premier lancement.
+
 **Stack :** Python · pandas · NumPy · scikit-learn (GaussianNB, RandomForest) · Plotly · Streamlit
 
 ![Page d'accueil de l'application](images/vue_ensemble.png)
